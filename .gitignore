@@ -1,5 +1,5 @@
 .idea
-
+.build
 # Don't check auto-generated stuff into git
 coverage
 node_modules
