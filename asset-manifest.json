@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78785aac.chunk.css",
+    "main.js": "/static/js/main.5257f9c6.chunk.js",
+    "main.js.map": "/static/js/main.5257f9c6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f979b3a9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f979b3a9.js.map",
+    "static/js/2.3b1af974.chunk.js": "/static/js/2.3b1af974.chunk.js",
+    "static/js/2.3b1af974.chunk.js.map": "/static/js/2.3b1af974.chunk.js.map",
+    "static/js/3.d65b7264.chunk.js": "/static/js/3.d65b7264.chunk.js",
+    "static/js/3.d65b7264.chunk.js.map": "/static/js/3.d65b7264.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.78785aac.chunk.css.map": "/static/css/main.78785aac.chunk.css.map",
+    "static/js/2.3b1af974.chunk.js.LICENSE.txt": "/static/js/2.3b1af974.chunk.js.LICENSE.txt",
+    "static/media/1.57e18e8d.png": "/static/media/1.57e18e8d.png",
+    "static/media/experiment-view.167ea06c.png": "/static/media/experiment-view.167ea06c.png",
+    "static/media/model-detail-view.6e154904.png": "/static/media/model-detail-view.6e154904.png",
+    "static/media/onnx.5125595d.png": "/static/media/onnx.5125595d.png",
+    "static/media/pytorch.d61271f8.png": "/static/media/pytorch.d61271f8.png",
+    "static/media/service.1b64d7cd.png": "/static/media/service.1b64d7cd.png",
+    "static/media/sklearn.8d0970ef.png": "/static/media/sklearn.8d0970ef.png",
+    "static/media/tensorflow.f3fbd5d2.png": "/static/media/tensorflow.f3fbd5d2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f979b3a9.js",
+    "static/js/2.3b1af974.chunk.js",
+    "static/css/main.78785aac.chunk.css",
+    "static/js/main.5257f9c6.chunk.js"
+  ]
+}
